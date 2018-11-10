@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AulaPermissoes</string>
+    <string name="nome">Álvaro Carvalho Cintra Neto</string>
+    <string name="telefone">9999-9999</string>
+    <string name="email">alvarocintra21@gmail.com</string>
+    <string name="facebook">Facebook</string>
+    <string name="excluir">Excluir</string>
+    <string name="favorito">Favorito</string>
+    <string name="editar">Editar</string>
+    <string name="digiteNome">Digite o nome</string>
+    <string name="digiteTel">Digite o telefone</string>
+    <string name="digiteEmail">Digite o email</string>
+    <string name="digiteUrl">Digite o endereço do Facebook</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="deletar">DELETAR</string>
+    <string name="name">Nome</string>
+</resources>

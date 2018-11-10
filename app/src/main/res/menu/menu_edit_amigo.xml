@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/favorito" android:id="@+id/menuAmigoFavorito"
+          android:icon="@drawable/ic_action_star_border" app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/editar" android:id="@+id/menuAmigoEditar" app:showAsAction="always"
+          android:icon="@drawable/ic_action_add_circle"/>
+
+    <item android:title="@string/excluir" android:id="@+id/menuAmigoExcluir"
+          android:icon="@drawable/ic_action_cancel" app:showAsAction="always"/>
+</menu>
